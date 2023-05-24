@@ -22,7 +22,7 @@ console.log(autos);
 autos[autos.length] = 'Porche';
 console.log(autos);
 
-//Tercera forma de agregar eelementos teniendo CUIDADO
+//Tercera forma de agregar elementos teniendo CUIDADO
 autos[6] = 'Renault';
 console.log(autos);
 
