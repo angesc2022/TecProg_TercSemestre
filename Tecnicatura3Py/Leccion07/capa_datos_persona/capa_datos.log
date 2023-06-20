@@ -3,3 +3,15 @@
 01:50:45 PM:WARNING [logger_base.py:18] Mensaje a nivel warning
 01:50:45 PM:ERROR [logger_base.py:19] Mensaje a nivel error
 01:50:45 PM:CRITICAL [logger_base.py:20] Mensaje a nivel critical
+11:59:13 PM:DEBUG [conexion.py:24] Conexion Exitosa: <connection object at 0x000001CCAE3B19C0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:59:13 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor: <cursor object at 0x000001CCB05CA260; closed: 0>
+12:01:56 AM:DEBUG [conexion.py:24] Conexion Exitosa: <connection object at 0x00000201A3E919C0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12:01:56 AM:DEBUG [conexion.py:39] Se abrio correctamente el cursor: <cursor object at 0x00000201A5CDDE00; closed: 0>
+12:04:44 AM:DEBUG [conexion.py:24] Conexion Exitosa: <connection object at 0x0000018F5A7419C0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12:04:44 AM:DEBUG [conexion.py:39] Se abrio correctamente el cursor: <cursor object at 0x0000018F5C92DE00; closed: 0>
+12:06:34 AM:DEBUG [conexion.py:24] Conexion Exitosa: <connection object at 0x0000014B4B7219C0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12:06:34 AM:DEBUG [conexion.py:39] Se abrio correctamente el cursor: <cursor object at 0x0000014B4D57DE00; closed: 0>
+12:10:15 AM:DEBUG [conexion.py:24] Conexion Exitosa: <connection object at 0x0000023097EA19C0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12:10:15 AM:DEBUG [conexion.py:39] Se abrio correctamente el cursor: <cursor object at 0x0000023099D1DE00; closed: 0>
+12:25:13 AM:DEBUG [conexion.py:24] Conexion Exitosa: <connection object at 0x00000239DBB719C0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12:25:13 AM:DEBUG [conexion.py:39] Se abrio correctamente el cursor: <cursor object at 0x00000239DD9BDE00; closed: 0>

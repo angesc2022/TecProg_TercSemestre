@@ -3,7 +3,7 @@ import psycopg2 as bd
 from logger_base import log
 import sys
 
-class conexion:
+class Conexion:
     _DATABASE = 'test_bd'
     _USERNAME = 'postgres'
     _PASSWORD = 'admin'
@@ -45,5 +45,5 @@ class conexion:
              return cls._cursor
 
 if __name__ == ' __main__ ':
-    conexion.obtenerConexion()
-    conexion.obtenerCursor()
+    Conexion.obtenerConexion()
+    Conexion.obtenerCursor()
